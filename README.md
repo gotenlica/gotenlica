@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gotenlica
-- 👀 I’m interested in learn more a to get JOB
-- 🌱 I’m currently learning javascritp, React and many things more.
+- 👀 I’m passioned about Coding and can't wait to start my career in this field.
+- 🌱 I’m currently learning javascritp, React and many more things.
 - 💞️ I’m looking to collaborate on a Project to give me the change to learn more and improve my Coding.
 - 📫 How to reach me gotenlica@gmail.com
 
